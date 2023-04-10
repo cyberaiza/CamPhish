@@ -47,4 +47,4 @@ bash camphish.sh
 
 
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-<p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @cyber_aiza</p>
+<p>CamPhish is inspired by https://github.com/cyber 🦋aiza/ Big thanks to @cyber_aiza</p>
