@@ -1,7 +1,7 @@
 #!/bin/bash
 # CamPhish v1.5
 # Powered by Cyber 🙂Aiza
-# Credits goes to thelinuxchoice [github.com/cyberaiza/]
+# Credits goes to aiza [github.com/cyberaiza/]
 
 trap 'printf "\n";stop' 2
 
@@ -16,7 +16,13 @@ printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | 
 printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
 printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n"
 printf " \e[1;93m CamPhish Ver 1.5 \e[0m \n"
-printf " \e[1;77m www.AIZA🦋.net 
+printf " \e[1;77m www.AIZA.net 
+
+
+
+
+
+
 
 
 
